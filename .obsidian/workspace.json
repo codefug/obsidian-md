@@ -8,15 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db49258c624f0a73",
+            "id": "2669e2fc081c7e04",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md",
-                "mode": "source",
-                "source": false
-              }
+                "terminal:terminal": {
+                  "cwd": "G:\\내 드라이브\\Obsidian Vault",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 76,
+                    "data": "Microsoft Windows [Version 10.0.19045.4170]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[0m        \u001b[31mmodified:   .obsidian/plugins/recent-files-obsidian/data.json\r\n\u001b[0m        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31m.obsidian/hotkeys.json\r\n\u001b[0m        \u001b[31m.obsidian/plugins/obsidian-excalidraw-plugin/\r\n\u001b[0m        \u001b[31m.obsidian/types.json\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/note video/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add .\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/main.js', LF will be replaced by CRLF the \r\nwarning: in the working copy of '.obsidian/types.json', LF will be replaced by CRLF the next time Git touches it        \r\n\u001b[30C                \r\nG:\\내 드라이브\\Obsidian Vault>git commit -m \"a            \r\nG:\\내 드라이브\\Obsidian Vault>\r\n\r\nG:\\내 드라이브\\Obsidian Vault>     \u001b[5D",
+                    "rows": 104
+                  }
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,33 +169,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "terminal:Open terminal": false
+      "workspaces:Manage workspace layouts": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db49258c624f0a73",
+  "active": "2669e2fc081c7e04",
   "lastOpenFiles": [
-    "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md",
+    "video/responsive-web-design.gif",
+    "video",
+    "공부자료(필기)/video/responsive-web-design.gif",
+    "공부자료(필기)/video",
+    "공부자료(필기)/note video/responsive-web-design.gif",
+    "공부자료(필기)/note video",
+    "공부자료(필기)/Logo/Logo_240318_175522.jpg",
+    "공부자료(필기)/Logo",
+    "공부자료(필기)/새 폴더",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_8.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_6.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_5.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_7.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_4.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_3.jpg",
+    "공부자료(필기)/UNIX/UNIX_240316_140705_2.jpg",
+    "공부자료(필기)/UNIX",
+    "공부자료(필기)/CSS 방법론",
+    "공부자료(필기)/HTML CSS_240308_090746.zip",
+    "공부자료(필기)/CSS 레이아웃_240315_005114.zip",
+    "공부자료(필기)/Git_240317_212126.zip",
     "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md",
+    "무제 파일.canvas",
+    "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md",
     "Language Knowledge/JS Knowledge/Core JavaScript/Data Type.md",
-    "Language Knowledge/JS Knowledge/Codeit/note image",
-    "Language Knowledge/JS Knowledge/Codeit/note image/Javascript_240322_004740_1 (4).jpg",
-    "Language Knowledge/JS Knowledge/Codeit/note image/Javascript_240322_004740_2 (4).jpg",
     "Language Knowledge/Language Knowledge.canvas",
-    "Language Knowledge/JS Knowledge/Codeit",
-    "Language Knowledge/HTML",
     "CS Knowledge/CS Knowledge.canvas",
     "2024-03-21.md",
-    "CS Knowledge",
-    "Language Knowledge",
-    "Language Knowledge/JS Knowledge",
-    "Untitled 1.md",
-    "Language Knowledge/JS Knowledge/Core JavaScript"
+    "Untitled 1.md"
   ]
 }

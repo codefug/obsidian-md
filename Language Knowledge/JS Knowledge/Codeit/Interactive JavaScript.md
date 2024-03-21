@@ -1,5 +1,6 @@
 # 개념 
 
+![[responsive-web-design.gif]]
 
 
 ![[Javascript_240322_004740_1 (4).jpg]]![[Javascript_240322_004740_2 (4).jpg]]
