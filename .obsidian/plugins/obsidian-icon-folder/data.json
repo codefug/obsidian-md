@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasMap",
+      "FasFolderTree",
+      "FasFolder",
+      "FasFile"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/Data Type.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript": {
+    "iconName": "FasFolder",
+    "iconColor": "#ffff00"
+  },
+  "Language Knowledge/JS Knowledge": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ff8800"
+  },
+  "Language Knowledge": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ff0000"
+  },
+  "CS Knowledge": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ff0000"
+  },
+  "CS Knowledge/CS Knowledge.canvas": {
+    "iconName": "FasMap",
+    "iconColor": "#ff7b00"
+  },
+  "Language Knowledge/Language Knowledge.canvas": {
+    "iconName": "FasMap",
+    "iconColor": "#ff7b00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Codeit": {
+    "iconName": "FasFolder",
+    "iconColor": "#ffff00"
+  },
+  "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/HTML": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ffa200"
+  }
+}
