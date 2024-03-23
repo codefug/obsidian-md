@@ -4,48 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "83c09910f7b4cc9c",
-        "type": "tabs",
+        "id": "4d50fe45a95835f4",
+        "type": "split",
         "children": [
           {
-            "id": "2669e2fc081c7e04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "G:\\내 드라이브\\Obsidian Vault",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 76,
-                    "data": "Microsoft Windows [Version 10.0.19045.4170]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[0m        \u001b[31mmodified:   .obsidian/plugins/recent-files-obsidian/data.json\r\n\u001b[0m        \u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[0m        \u001b[31mmodified:   Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n        \u001b[31m.obsidian/hotkeys.json\r\n\u001b[0m        \u001b[31m.obsidian/plugins/obsidian-excalidraw-plugin/\r\n\u001b[0m        \u001b[31m.obsidian/types.json\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/note video/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add .\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/main.js', LF will be replaced by CRLF the \r\nwarning: in the working copy of '.obsidian/types.json', LF will be replaced by CRLF the next time Git touches it        \r\n\u001b[30C                \r\nG:\\내 드라이브\\Obsidian Vault>git commit -m \"a            \r\nG:\\내 드라이브\\Obsidian Vault>\r\n\r\nG:\\내 드라이브\\Obsidian Vault>     \u001b[5D",
-                    "rows": 104
-                  }
+            "id": "c9c16a6af80c77b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c3fa86b02836d76",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
                 }
-              },
-              "pinned": true
-            }
+              }
+            ]
+          },
+          {
+            "id": "f9ae4bc901d0e34e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d74bff510b502e0a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "G:\\내 드라이브\\Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 110,
+                        "data": "Microsoft Windows [Version 10.0.19045.4170]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")      \r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add",
+                        "rows": 48
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f7df61e23e10ef3",
@@ -180,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2669e2fc081c7e04",
+  "active": "d74bff510b502e0a",
   "lastOpenFiles": [
     "video/responsive-web-design.gif",
     "video",
