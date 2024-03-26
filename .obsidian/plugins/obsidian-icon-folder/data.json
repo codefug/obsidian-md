@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasVideo",
+      "FasBookOpen",
       "FasMap",
       "FasFolderTree",
-      "FasFolder",
-      "FasFile"
+      "FasFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,5 +70,17 @@
   "Language Knowledge/HTML": {
     "iconName": "FasFolderTree",
     "iconColor": "#ffa200"
+  },
+  "공부자료(필기)": {
+    "iconName": "FasBookOpen",
+    "iconColor": "#ff0000"
+  },
+  "video": {
+    "iconName": "FasVideo",
+    "iconColor": "#ff0000"
+  },
+  "Language Knowledge/CSS": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ff9500"
   }
 }
