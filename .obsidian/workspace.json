@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4e9a637508a130",
+        "id": "ce45a289b200b023",
         "type": "split",
         "children": [
           {
-            "id": "e49937cedfdd8692",
+            "id": "076958f93e75ccc9",
             "type": "tabs",
             "children": [
               {
-                "id": "54a8a06a68fda6d9",
+                "id": "d49bb5c03f3fef33",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md",
+                    "file": "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "8aca3165eff1f49e",
+            "id": "f896ceef9ca2700a",
             "type": "tabs",
             "children": [
               {
-                "id": "91f909566f71332a",
+                "id": "3d254e4b653ba270",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,9 +58,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 203,
-                        "data": "Microsoft Windows [Version 10.0.19045.4170]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/graph.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/hotkeys.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/dataview/main.js', LF will be replaced by CRLF the next time Git touc\r\nhes it\r\nwarning: in the working copy of '.obsidian/plugins/dataview/manifest.json', LF will be replaced by CRLF the next time Gi\r\nt touches it\r\nwarning: in the working copy of '.obsidian/plugins/dataview/styles.css', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/data.json', LF will be replaced by CRLF th\r\ne next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/main.js', LF will be replaced by CRLF the \r\nnext time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/data.json', LF will be replaced by CRLF the next\r\n time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/manifest.json', LF will be replaced by CRLF the \r\nnext time Git touches it\r\n",
-                        "rows": 24
+                        "columns": 110,
+                        "data": "Microsoft Windows [Version 10.0.19045.4170]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git status\r\nO\r\n        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_1.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_10.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_11.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_12.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_13.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_14.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_15.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_2.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_3.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_4.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_5.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_6.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_7.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_8.jpg\"\r\n\u001b[0m        \u001b[31mdeleted:    \"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/Core Java Script chapter\r\n 1 Data Type_240325_085032_9.jpg\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[0m        \u001b[31m.obsidian/plugins/obsidian-html-tags-autocomplete/\r\n\u001b[0m        \u001b[31mLanguage Knowledge/CSS/\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/Modern JavaScript.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/2. Execution Context.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/3. this.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/4. Callback Function.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/5. Closer.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md\r\n\u001b[0m        \u001b[31mLanguage Knowledge/JS Knowledge/Core JavaScript/7. Class.md\r\n\u001b[0m        \u001b[31mPasted image 20240403224715.png\r\n\u001b[0m        \u001b[31mPasted image 20240403224859.png\r\n\u001b[0m        \u001b[31mPasted image 20240403224905.png\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Closer/\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Scri\r\n 1 Data Type_240325_085032_15.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Scri\r\n 1 Data Type_240325_085032_2.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Scri\r\n 1 Data Type_240325_085032_3.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Scri\r\n 1 Data Type_240325_085032_4.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Scri\r\n 1 Data Type_240325_085032_5.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240325_085032_6.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240325_085032_7.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240325_085032_8.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240325_085032_9.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240330_044819 (1).jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240330_044819 (2).jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Datatype/Core Java Script chapter\r\n 1 Data Type_240330_044819.jpg\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/ModernJavaScript/\"\r\n\u001b[0m        \u001b[31m\"\\352\\263\\265\\353\\266\\200\\354\\236\\220\\353\\243\\214(\\355\\225\\204\\352\\270\\260)/JS/Web Development JavaScript/\"\u001b[0m     \r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git ad\r\n\r\n\r\n\r\n\r\n\u001b[5A\u001b[36C",
+                        "rows": 48
                       }
                     }
                   },
@@ -198,18 +198,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 886.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts"
+      "workspaces:Manage workspace layouts": false,
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "3d254e4b653ba270",
+  "lastOpenFiles": [
+    "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md",
+    "Language Knowledge/JS Knowledge/Core JavaScript/7. Class.md",
+    "Language Knowledge/JS Knowledge/Core JavaScript/3. this.md",
+    "Pasted image 20240403224905.png",
+    "Pasted image 20240403224859.png",
+    "Pasted image 20240403224715.png",
+    "Language Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201446.png",
+    "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201402.png",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201338.png",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201228.png",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201026.png",
+    "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403125806.png",
+    "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403125754.png",
+    "Language Knowledge/JS Knowledge/Core JavaScript/4. Callback Function.md",
+    "Language Knowledge/JS Knowledge/Codeit/Modern JavaScript.md",
+    "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md",
+    "Language Knowledge/JS Knowledge/Core JavaScript/2. Execution Context.md",
+    "공부자료(필기)/JS/Closer/closer execution.png.crdownload",
+    "Language Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md",
+    "공부자료(필기)/JS/Closer/images_soheey_post_5279dcd3-1328-4215-88dd-25e4942f1d99_1번.jpg.crdownload",
+    "공부자료(필기)/JS/Closer",
+    "공부자료(필기)/JS/새 폴더",
+    "Language Knowledge/CSS/MediaQuery/MediaQuery.md",
+    "Language Knowledge/CSS/BootStrap/BootStrap.md",
+    "Language Knowledge/CSS/BootStrap",
+    "Language Knowledge/CSS/MediaQuery",
+    "공부자료(필기)/JS/Web Development JavaScript",
+    "CS Knowledge/CS Knowledge.canvas",
+    "문서 작성 규칙.md",
+    "video/eventhandler1.mkv",
+    "Excalidraw/Drawing 2024-03-25 16.22.20.excalidraw.md",
+    "Core.md",
+    "video/eventhandler1.mkv.crdownload",
+    "video/eventHandler1.mkv",
+    "2024-03-25.md",
+    "Language Knowledge/Language Knowledge.canvas",
+    "Untitled.canvas",
+    "video/Drawing 2024-03-22 03.19.47.excalidraw.md",
+    "무제 파일.canvas",
+    "2024-03-21.md",
+    "Untitled 1.md"
+  ]
+}

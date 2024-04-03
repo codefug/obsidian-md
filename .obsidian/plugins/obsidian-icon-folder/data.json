@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolder",
+      "FasFile",
       "FasVideo",
       "FasBookOpen",
-      "FasMap",
-      "FasFolderTree",
-      "FasFolder"
+      "FasMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,10 +26,6 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  },
-  "Language Knowledge/JS Knowledge/Core JavaScript/Data Type.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
   },
   "Language Knowledge/JS Knowledge/Core JavaScript": {
     "iconName": "FasFolder",
@@ -55,17 +51,9 @@
     "iconName": "FasMap",
     "iconColor": "#ff7b00"
   },
-  "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
-  },
   "Language Knowledge/JS Knowledge/Codeit": {
     "iconName": "FasFolder",
     "iconColor": "#ffff00"
-  },
-  "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
   },
   "Language Knowledge/HTML": {
     "iconName": "FasFolderTree",
@@ -82,5 +70,65 @@
   "Language Knowledge/CSS": {
     "iconName": "FasFolderTree",
     "iconColor": "#ff9500"
+  },
+  "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Codeit/Modern JavaScript.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/CSS/BootStrap": {
+    "iconName": "FasFolder",
+    "iconColor": "#f3f34b"
+  },
+  "Language Knowledge/CSS/MediaQuery": {
+    "iconName": "FasFolder",
+    "iconColor": "#f3f34b"
+  },
+  "Language Knowledge/CSS/BootStrap/BootStrap.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/CSS/MediaQuery/MediaQuery.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/4. Callback Function.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/2. Execution Context.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/3. this.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Core JavaScript/7. Class.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
   }
 }

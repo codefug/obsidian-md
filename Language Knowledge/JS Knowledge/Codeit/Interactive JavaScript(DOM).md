@@ -197,7 +197,9 @@ for (let btn of btns) {
 
 ## <mark style="background: #ABF7F7A6;">MouseEvent.button</mark>
 
-	0 1 2 순서로 버튼 유형
+	0 1 2 3 4 순서로 버튼 유형
+
+마우스 이동 관련 이벤트에서는 각 버튼 유형의 값이 다 0 이 된다.
 
 ## <mark style="background: #ABF7F7A6;">MouseEvent.type</mark>
 
@@ -225,7 +227,7 @@ for (let btn of btns) {
 ## <mark style="background: #ADCCFFA6;">mouseenter / mouseleave  와 mouseover / mouseout 차이점
 </mark>
 
-* 버블링
+* Bubbling
 	* mouseenter / mouseleave는 버블링이 일어나지 않는다.
 		* Event propagation이 일어나지 않는다.
 	* mouseover / mouseout은 버블링이 일어난다.
@@ -307,20 +309,25 @@ shift같은 modifier key들은 취급하지 않는다.
 이벤트가 발생한 버튼의 키보드에서 물리적인 위치 
 (shift인데 오른쪽인지 왼쪽인지 같은 구체적인 정보 저장)
 
-## <mark style="background: #FFF3A3A6;">Input Tag 관련 Event</mark>
-## <mark style="background: #BBFABBA6;">Focus Event</mark>
+## <mark style="background: #FFF3A3A6;">Input Event</mark>
 
-| 이벤트 이름   | 설명                      |
-| -------- | ----------------------- |
-| focusin  | 요소에 포커스가 되었을 때          |
-| focusout | 요소에 포커스가 빠져나갈 때         |
-| focus    | 요소에 포커스가 되었을 때 (버블링 x)  |
-| blur     | 요소에 포커스가 빠져나갈 때 (버블링 x) |
+| 이벤트 이름   | 설명                                                                           |
+| -------- | ---------------------------------------------------------------------------- |
+| focusin  | 요소에 포커스가 되었을 때                                                               |
+| focusout | 요소에 포커스가 빠져나갈 때                                                              |
+| focus    | 요소에 포커스가 되었을 때 (버블링 x)                                                       |
+| blur     | 요소에 포커스가 빠져나갈 때 (버블링 x)                                                      |
+| select   | 입력 양식의 하나가 선택되는 순간                                                           |
+| submit   | 폼을 전송하는 순간                                                                   |
+| input    | 사용자가 입력을 할 때                                                                 |
+| change   | 요소의 값이 변했을 때<br>(입력 후에 값이 변했는데 포커스가 이동했을 경우, enter를 눌렀을 경우(focus를 잃진 않음) 등등) |
+change를 사용했을 때 UX적으로 더 편한 경우가 있다.
 
-## <mark style="background: #BBFABBA6;">Input Event</mark>
+## <mark style="background: #FFF3A3A6;">Scroll Event</mark>
 
-| 이벤트 이름 | 설명                                                                           |
-| ------ | ---------------------------------------------------------------------------- |
-| input  | 사용자가 입력을 할 때                                                                 |
-| change | 요소의 값이 변했을 때<br>(입력 후에 값이 변했는데 포커스가 이동했을 경우, enter를 눌렀을 경우(focus를 잃진 않음) 등등) |
+## <mark style="background: #BBFABBA6;">Scroll Property</mark>
 
+| 프로퍼티명          | 설명  |
+| -------------- | --- |
+| window.scrollY |     |
+| window.scrollX |     |

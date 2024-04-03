@@ -1,112 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Interactive JavaScript",
-      "path": "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript.md"
+      "basename": "5. Closer",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md"
+    },
+    {
+      "basename": "7. Class",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/7. Class.md"
+    },
+    {
+      "basename": "3. this",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/3. this.md"
+    },
+    {
+      "basename": "6. Prototype",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md"
+    },
+    {
+      "basename": "Pasted image 20240403201446",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403201446.png"
+    },
+    {
+      "basename": "Web Development JavaScript - chapter 2 Asynchronous",
+      "path": "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md"
+    },
+    {
+      "basename": "Web Development JavaScript - chapter 1 Web",
+      "path": "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md"
+    },
+    {
+      "basename": "Pasted image 20240403125806",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240403125806.png"
+    },
+    {
+      "basename": "4. Callback Function",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/4. Callback Function.md"
+    },
+    {
+      "basename": "Modern JavaScript",
+      "path": "Language Knowledge/JS Knowledge/Codeit/Modern JavaScript.md"
+    },
+    {
+      "basename": "Interactive JavaScript(DOM)",
+      "path": "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md"
+    },
+    {
+      "basename": "Pasted image 20240402093300",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402093300.png"
+    },
+    {
+      "basename": "Pasted image 20240402025426",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402025426.png"
+    },
+    {
+      "basename": "Pasted image 20240402015813",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402015813.png"
+    },
+    {
+      "basename": "Pasted image 20240402021012",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402021012.png"
+    },
+    {
+      "basename": "Pasted image 20240402022804",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402022804.png"
+    },
+    {
+      "basename": "Pasted image 20240402022823",
+      "path": "공부자료(필기)/JS/Web Development JavaScript/Pasted image 20240402022823.png"
+    },
+    {
+      "basename": "2. Execution Context",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/2. Execution Context.md"
+    },
+    {
+      "basename": "1. Data Type",
+      "path": "Language Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_9",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_9.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_11",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_11.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_8",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_8.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_7",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_7.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_6",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_6.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_15",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_15.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_10",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_10.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_12",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_12.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_13",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_13.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_14",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_14.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_5",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240325_085032_5.jpg"
+    },
+    {
+      "basename": "Core Java Script chapter 1 Data Type_240323_161905_12 (1)",
+      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240323_161905_12 (1).jpg"
+    },
+    {
+      "basename": "MediaQuery",
+      "path": "Language Knowledge/CSS/MediaQuery/MediaQuery.md"
+    },
+    {
+      "basename": "BootStrap",
+      "path": "Language Knowledge/CSS/BootStrap/BootStrap.md"
+    },
+    {
+      "basename": "CSS Responsive web_240321_105709_2 (3)",
+      "path": "공부자료(필기)/CSS/CSS Responsive web_240321_105709/CSS Responsive web_240321_105709_2 (3).jpg"
+    },
+    {
+      "basename": "CSS Responsive web_240321_105709_1 (3)",
+      "path": "공부자료(필기)/CSS/CSS Responsive web_240321_105709/CSS Responsive web_240321_105709_1 (3).jpg"
+    },
+    {
+      "basename": "CSS Responsive web_240321_105709_3 (3)",
+      "path": "공부자료(필기)/CSS/CSS Responsive web_240321_105709/CSS Responsive web_240321_105709_3 (3).jpg"
+    },
+    {
+      "basename": "Pasted image 20240327010149",
+      "path": "Pasted image 20240327010149.png"
+    },
+    {
+      "basename": "CS Knowledge",
+      "path": "CS Knowledge/CS Knowledge.canvas"
     },
     {
       "basename": "문서 작성 규칙",
       "path": "문서 작성 규칙.md"
     },
     {
-      "basename": "Execution Context",
-      "path": "Language Knowledge/JS Knowledge/Core JavaScript/Execution Context.md"
-    },
-    {
-      "basename": "Data Type",
-      "path": "Language Knowledge/JS Knowledge/Core JavaScript/Data Type.md"
-    },
-    {
-      "basename": "Core Java Script chapter 1 Data Type_240325_085032_1",
-      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_1.jpg"
-    },
-    {
-      "basename": "Core Java Script chapter 1 Data Type_240325_085032_6",
-      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_6.jpg"
-    },
-    {
-      "basename": "Core Java Script chapter 1 Data Type_240323_161905_12 (1)",
-      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240323_161905_12 (1).jpg"
-    },
-    {
       "basename": "responsive-web-design",
       "path": "video/responsive-web-design.gif"
     },
     {
-      "basename": "Drawing 2024-03-25 16.22.20.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-25 16.22.20.excalidraw.md"
+      "basename": "eventhandler1",
+      "path": "video/eventhandler1.mkv"
     },
     {
-      "basename": "Language Knowledge",
-      "path": "Language Knowledge/Language Knowledge.canvas"
+      "basename": "Pasted image 20240327010424",
+      "path": "Pasted image 20240327010424.png"
     },
     {
-      "basename": "Core Java Script chapter 1 Data Type_240323_161905_10 (1)",
-      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240323_161905_10 (1).jpg"
+      "basename": "Pasted image 20240327093424",
+      "path": "Pasted image 20240327093424.png"
     },
     {
-      "basename": "Core Java Script chapter 1 Data Type_240323_161905_11 (1)",
-      "path": "공부자료(필기)/JS/Datatype/Core Java Script chapter 1 Data Type_240323_161905_11 (1).jpg"
+      "basename": "Pasted image 20240327010411",
+      "path": "Pasted image 20240327010411.png"
     },
     {
-      "basename": "Git_240320_182413_1 (1) (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_1 (1) (1).jpg"
+      "basename": "Pasted image 20240327010240",
+      "path": "Pasted image 20240327010240.png"
     },
     {
-      "basename": "Git_240320_182413_6 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_6 (1).jpg"
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_13",
+      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_13.jpg"
     },
     {
-      "basename": "Git_240320_182413_5 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_5 (1).jpg"
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_12",
+      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_12.jpg"
     },
     {
-      "basename": "Git_240320_182413_4 (1) (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_4 (1) (1).jpg"
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_14",
+      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_14.jpg"
     },
     {
-      "basename": "Git_240320_182413_4 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_4 (1).jpg"
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_11",
+      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_11.jpg"
     },
     {
-      "basename": "Git_240320_182413_3 (1) (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_3 (1) (1).jpg"
-    },
-    {
-      "basename": "Git_240320_182413_3 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_3 (1).jpg"
-    },
-    {
-      "basename": "Git_240320_182413_2 (1) (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_2 (1) (1).jpg"
-    },
-    {
-      "basename": "Git_240320_182413_2 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_2 (1).jpg"
-    },
-    {
-      "basename": "Git_240320_182413_1 (1)",
-      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_1 (1).jpg"
-    },
-    {
-      "basename": "Core Javascript chapter 2 Execution context_240322_205202_1",
-      "path": "공부자료(필기)/JS/Execution context/Core Javascript chapter 2 Execution context_240322_205202_1.jpg"
-    },
-    {
-      "basename": "Core Javascript chapter 2 Execution context_240322_205202_5",
-      "path": "공부자료(필기)/JS/Execution context/Core Javascript chapter 2 Execution context_240322_205202_5.jpg"
-    },
-    {
-      "basename": "Core Javascript chapter 2 Execution context_240322_205202_19",
-      "path": "공부자료(필기)/JS/Execution context/Core Javascript chapter 2 Execution context_240322_205202_19.jpg"
-    },
-    {
-      "basename": "Core Javascript chapter 2 Execution context_240322_205202_3",
-      "path": "공부자료(필기)/JS/Execution context/Core Javascript chapter 2 Execution context_240322_205202_3.jpg"
-    },
-    {
-      "basename": "Core Javascript chapter 2 Execution context_240322_205202_2",
-      "path": "공부자료(필기)/JS/Execution context/Core Javascript chapter 2 Execution context_240322_205202_2.jpg"
+      "basename": "Core Java Script chapter 1 Data Type_240325_085032_15",
+      "path": "공부자료(필기)/Core Java Script chapter 1 Data Type_240325_085032_15.jpg"
     }
   ],
   "omittedPaths": [],

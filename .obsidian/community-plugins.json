@@ -11,5 +11,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
   "remember-cursor-position",
-  "editor-width-slider"
+  "editor-width-slider",
+  "obsidian-html-tags-autocomplete"
 ]
