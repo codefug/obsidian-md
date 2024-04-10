@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
       "FasFolder",
       "FasFile",
       "FasVideo",
-      "FasBookOpen",
-      "FasMap"
+      "FasBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,6 +128,38 @@
     "iconColor": "#00ff00"
   },
   "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Framework": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#ff0000"
+  },
+  "Framework/React": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#f3a54b"
+  },
+  "Framework/React/Codeit": {
+    "iconName": "FasFolder",
+    "iconColor": "#ffff00"
+  },
+  "Framework/React/DeepDive": {
+    "iconName": "FasFolder",
+    "iconColor": "#ffff00"
+  },
+  "Framework/React/Codeit/React Web Development Foundamental.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Framework/React/Codeit/React Data Handling.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "Framework/React/OfficialDocs": {
+    "iconName": "FasFolder",
+    "iconColor": "#fbff00"
+  },
+  "Framework/React/OfficialDocs/React Quick Start.md": {
     "iconName": "FasFile",
     "iconColor": "#00ff00"
   }
