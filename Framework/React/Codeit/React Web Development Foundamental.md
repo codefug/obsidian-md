@@ -332,6 +332,19 @@ Component 내부에 변수를 선언할 때는 react 라이브러리에 존재�
 
 2. React는 내부적으로 State값이 변경되면 화면을 자동으로 새로 그린다.
 
+## <mark style="background: #FFF3A3A6;">효율적 초기값 설정</mark>
+
+```jsx
+const [state, setState] = useState(() => {
+  // 초기값을 계산
+  return initialState;
+});
+```
+
+해당 state를 담고 있는 함수가 실행 될 때마다 계산해서 초기값을 넣는 코드일 경우 위의 형식처럼 콜백 함수를 arg에 넣어서 처음 렌더링할 때만 실행되도록 할 수 있다.
+
+단, 첫 렌더링시 리액트가 해당 함수가 끝날 때까지 실행을 멈추기 때문에 첫 렌더링이 늦어질 수 있다.
+
 ## <mark style="background: #FFF3A3A6;">참조형 State</mark>
 
 React에서 Array는 [[1. Data Type#^13b485|불변객체]]로만 취급된다. (Property만 바꾸는 행위(가변적)가 불가능하다.)
@@ -348,6 +361,37 @@ set을 이용해서 변수에 할당할 때 arg에 넣는 Array에는 새로운 
 
   };
 ```
+
+## <mark style="background: #FFF3A3A6;">Asynchronous state handling</mark>
+
+느린 데이터를 사용할 때 예를 들면 Slow 3G 상황을 가정해보자.
+
+![[Pasted image 20240411130359.png]]
+
+이때 비동기로 state를 받아오면 문제가 생길 수 있다.
+
+예를 들어 두가지 함수가 동시에 일어났다고 하자.
+
+1. 기존 list에 데이터를 더 넣음 (fetch를 이용, 비동기적)
+2. 기존 list item을 삭제함. (동기적)
+
+삭제가 fetch 중간에 일어나고 1번 함수에 들어가는 list는 삭제 전 list가 들어가면서
+
+삭제 동작이 무시된다.
+
+그래서 이를 위해 usestate의 두번째 arg에 callback function을 넣어서 함수 실행 시점의 Item을 꺼
+
+낸다.
+
+```jsx
+setItems((prevItems) => { // 발동 시점의 Item이 prevItems로 set된다.
+        [...prevItems, ...reviews];
+      });
+```
+
+이렇게 하면 발동 시점의 Items를 반영하게 된다.
+
+앵간하면 다 이거 쓰지 않을까
 
 ## <mark style="background: #FFF3A3A6;">ex) 주사위게임</mark>
 
