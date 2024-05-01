@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "Styled Components",
+      "path": "FeTech/Styled Components/OfficialDocs/Styled Components.md"
+    },
+    {
+      "basename": "Describing the UI",
+      "path": "FeTech/React/OfficialDocs/Describing the UI.md"
+    },
+    {
       "basename": "React Data Handling",
-      "path": "Framework/React/Codeit/React Data Handling.md"
+      "path": "FeTech/React/Codeit/React Data Handling.md"
     },
     {
       "basename": "React Web Development Foundamental",
-      "path": "Framework/React/Codeit/React Web Development Foundamental.md"
+      "path": "FeTech/React/Codeit/React Web Development Foundamental.md"
     },
     {
-      "basename": "문서 작성 규칙",
-      "path": "문서 작성 규칙.md"
+      "basename": "React Web Site Practice",
+      "path": "FeTech/React/Codeit/React Web Site Practice.md"
+    },
+    {
+      "basename": "CleanCode(React)",
+      "path": "FeTech/React/CleanCode/CleanCode(React).md"
     },
     {
       "basename": "Web Development JavaScript - chapter 2 Asynchronous",
       "path": "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md"
     },
     {
-      "basename": "1. Data Type",
-      "path": "Language Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md"
-    },
-    {
       "basename": "Web Development JavaScript - chapter 1 Web",
       "path": "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md"
-    },
-    {
-      "basename": "Pasted image 20240409140308",
-      "path": "공부자료(필기)/JS/React/Docs/Pasted image 20240409140308.png"
-    },
-    {
-      "basename": "Pasted image 20240409034607",
-      "path": "공부자료(필기)/JS/React/Codeit/Pasted image 20240409034607.png"
-    },
-    {
-      "basename": "Pasted image 20240408142251",
-      "path": "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142251.png"
-    },
-    {
-      "basename": "Pasted image 20240408142332",
-      "path": "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142332.png"
-    },
-    {
-      "basename": "Pasted image 20240408142450",
-      "path": "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142450.png"
-    },
-    {
-      "basename": "Pasted image 20240409141019",
-      "path": "공부자료(필기)/JS/React/Docs/Pasted image 20240409141019.png"
-    },
-    {
-      "basename": "Pasted image 20240409140746",
-      "path": "공부자료(필기)/JS/React/Docs/Pasted image 20240409140746.png"
-    },
-    {
-      "basename": "React Quick Start",
-      "path": "Framework/React/OfficialDocs/React Quick Start.md"
-    },
-    {
-      "basename": "3. this",
-      "path": "Language Knowledge/JS Knowledge/Core JavaScript/3. this.md"
-    },
-    {
-      "basename": "Interactive JavaScript(DOM)",
-      "path": "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md"
     },
     {
       "basename": "Modern JavaScript",
       "path": "Language Knowledge/JS Knowledge/Codeit/Modern JavaScript.md"
     },
     {
-      "basename": "Class_240407_030156_2 (1)",
-      "path": "공부자료(필기)/JS/Class/Class_240407_030156_2 (1).jpg"
+      "basename": "Interactive JavaScript(DOM)",
+      "path": "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md"
     },
     {
-      "basename": "Class_240407_030156_1 (1)",
-      "path": "공부자료(필기)/JS/Class/Class_240407_030156_1 (1).jpg"
+      "basename": "React Component architecture",
+      "path": "FeTech/React/Codeit/React Component architecture.md"
+    },
+    {
+      "basename": "Styled Components",
+      "path": "FeTech/Styled Components/Codeit/Styled Components.md"
+    },
+    {
+      "basename": "Pasted image 20240420105517",
+      "path": "공부자료(필기)/StyledComponent/Pasted image 20240420105517.png"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_12",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_12.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_11",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_11.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_10",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_10.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_9",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_9.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_8",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_8.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_7",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_7.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_6",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_6.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_5",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_5.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_4",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_4.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_3",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_3.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_2",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_2.jpg"
+    },
+    {
+      "basename": "CSS 핵심 개념_240310_094507_1",
+      "path": "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_1.jpg"
     },
     {
       "basename": "7. Class",
       "path": "Language Knowledge/JS Knowledge/Core JavaScript/7. Class.md"
     },
     {
-      "basename": "20240406_082524",
-      "path": "공부자료(필기)/JS/Class/20240406_082524.jpg"
-    },
-    {
-      "basename": "Pasted image 20240407003220",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240407003220.png"
-    },
-    {
-      "basename": "Pasted image 20240406190333",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406190333.png"
-    },
-    {
-      "basename": "Pasted image 20240406152907",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406152907.png"
-    },
-    {
-      "basename": "Pasted image 20240406095948",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406095948.png"
-    },
-    {
-      "basename": "Pasted image 20240406083944",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406083944.png"
-    },
-    {
-      "basename": "Pasted image 20240406075045",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406075045.png"
-    },
-    {
-      "basename": "Pasted image 20240406074943",
-      "path": "공부자료(필기)/JS/Class/Pasted image 20240406074943.png"
-    },
-    {
-      "basename": "20240406_090138",
-      "path": "공부자료(필기)/JS/Class/20240406_090138.jpg"
-    },
-    {
-      "basename": "Logo_240318_175522",
-      "path": "공부자료(필기)/Logo/Logo_240318_175522.jpg"
-    },
-    {
-      "basename": "Prototype_240405_094707",
-      "path": "공부자료(필기)/JS/Prototype/Prototype_240405_094707.jpg"
-    },
-    {
-      "basename": "Class_240407_030156_2",
-      "path": "공부자료(필기)/JS/Closer/Class_240407_030156_2.jpg"
-    },
-    {
       "basename": "6. Prototype",
       "path": "Language Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md"
     },
     {
-      "basename": "5. Closer",
-      "path": "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md"
+      "basename": "Pasted image 20240405221224",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405221224.png"
     },
     {
-      "basename": "Javascript_240328_141428_14",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_14.jpg"
+      "basename": "Pasted image 20240405222504",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405222504.png"
     },
     {
-      "basename": "Javascript_240328_141428_13",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_13.jpg"
+      "basename": "Pasted image 20240405222453",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405222453.png"
     },
     {
-      "basename": "Javascript_240328_141428_12",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_12.jpg"
+      "basename": "Pasted image 20240405092655",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405092655.png"
     },
     {
-      "basename": "Javascript_240328_141428_11",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_11.jpg"
+      "basename": "Pasted image 20240405051703",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405051703.png"
     },
     {
-      "basename": "Javascript_240328_141428_10",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_10.jpg"
+      "basename": "Pasted image 20240405025137",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405025137.png"
     },
     {
-      "basename": "Javascript_240328_141428_9",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_9.jpg"
+      "basename": "Pasted image 20240405112616",
+      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405112616.png"
     },
     {
-      "basename": "Javascript_240328_141428_8",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_8.jpg"
+      "basename": "Git_240320_182413_12 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_12 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_7",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_7.jpg"
+      "basename": "Git_240320_182413_10 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_10 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_15",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_15.jpg"
+      "basename": "Git_240320_182413_9 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_9 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_6",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_6.jpg"
+      "basename": "Git_240320_182413_8 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_8 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_1",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_1.jpg"
+      "basename": "Git_240320_182413_3 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_3 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_2",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_2.jpg"
+      "basename": "Git_240320_182413_1 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_1 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_3",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_3.jpg"
+      "basename": "Git_240320_182413_17 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_17 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_4",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_4.jpg"
+      "basename": "Git_240320_182413_16 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_16 (1).jpg"
     },
     {
-      "basename": "Javascript_240328_141428_5",
-      "path": "공부자료(필기)/JS/DOM/Javascript_240328_141428_5.jpg"
+      "basename": "Git_240320_182413_15 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_15 (1).jpg"
     },
     {
-      "basename": "Pasted image 20240405082736",
-      "path": "공부자료(필기)/JS/Prototype/Pasted image 20240405082736.png"
+      "basename": "Git_240320_182413_14 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_14 (1).jpg"
+    },
+    {
+      "basename": "Git_240320_182413_13 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_13 (1).jpg"
+    },
+    {
+      "basename": "Pasted image 20240412130509",
+      "path": "공부자료(필기)/FileStructure/FSD/Pasted image 20240412130509.png"
+    },
+    {
+      "basename": "FSD architecture",
+      "path": "FeTech/React/file structure/FSD architecture.md"
+    },
+    {
+      "basename": "Git_240320_182413_18 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_18 (1).jpg"
+    },
+    {
+      "basename": "Git_240320_182413_11 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_11 (1).jpg"
+    },
+    {
+      "basename": "Git_240320_182413_7 (1)",
+      "path": "공부자료(필기)/Git/Git_240320_182413 (1)/Git_240320_182413_7 (1).jpg"
     }
   ],
   "omittedPaths": [],

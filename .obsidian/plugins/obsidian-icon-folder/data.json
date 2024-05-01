@@ -39,14 +39,6 @@
     "iconName": "FasFolderTree",
     "iconColor": "#ff0000"
   },
-  "CS Knowledge": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#ff0000"
-  },
-  "CS Knowledge/CS Knowledge.canvas": {
-    "iconName": "FasMap",
-    "iconColor": "#ff7b00"
-  },
   "Language Knowledge/Language Knowledge.canvas": {
     "iconName": "FasMap",
     "iconColor": "#ff7b00"
@@ -131,36 +123,32 @@
     "iconName": "FasFile",
     "iconColor": "#00ff00"
   },
-  "Framework": {
+  "Language Knowledge/CSS/CSS extension": {
+    "iconName": "FasFolder",
+    "iconColor": "#ebeb7c"
+  },
+  "Language Knowledge/CSS/CSS extension/CSS extension.md": {
+    "iconName": "FasFile",
+    "iconColor": "#00ff00"
+  },
+  "FeTech": {
     "iconName": "FasFolderTree",
     "iconColor": "#ff0000"
   },
-  "Framework/React": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#f3a54b"
-  },
-  "Framework/React/Codeit": {
+  "FeTech/React": {
     "iconName": "FasFolder",
-    "iconColor": "#ffff00"
+    "iconColor": "#ff7800"
   },
-  "Framework/React/DeepDive": {
+  "FeTech/Styled Components": {
     "iconName": "FasFolder",
-    "iconColor": "#ffff00"
+    "iconColor": "#ff7d00"
   },
-  "Framework/React/Codeit/React Web Development Foundamental.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
-  },
-  "Framework/React/Codeit/React Data Handling.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
-  },
-  "Framework/React/OfficialDocs": {
+  "FeTech/Tailwind CSS": {
     "iconName": "FasFolder",
-    "iconColor": "#fbff00"
+    "iconColor": "#ff7d00"
   },
-  "Framework/React/OfficialDocs/React Quick Start.md": {
-    "iconName": "FasFile",
-    "iconColor": "#00ff00"
+  "FeTech/Formatter, Linter": {
+    "iconName": "FasFolder",
+    "iconColor": "#ff7d00"
   }
 }

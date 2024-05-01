@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb7c71fdf1f231b",
+        "id": "d279accfb10505b6",
         "type": "split",
         "children": [
           {
-            "id": "2ba985fa2c06d923",
+            "id": "070898914ccd14a6",
             "type": "tabs",
             "children": [
               {
-                "id": "653fb996531b1a1e",
+                "id": "089b4b3f7527e9ed",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Framework/React/Codeit/React Data Handling.md",
+                    "file": "FeTech/Styled Components/OfficialDocs/Styled Components.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "ecaafd5087c4c45a",
+            "id": "624c8e38d5786b0b",
             "type": "tabs",
             "children": [
               {
-                "id": "0770695bf91f872e",
+                "id": "4873ae149662b2ce",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,9 +58,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 110,
-                        "data": "Microsoft Windows [Version 10.0.19045.4291]    \r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touche\r\ns it\r\nwarning: in the working copy of '.obsidian/core-plugins-migration.json', LF will be replaced by CRLF the next time Git t\r\nouches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/editor-width-slider/data.json', LF will be replaced by CRLF the next \r\ntime Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-icon-folder/data.json', LF will be replaced by CRLF the next\r\n time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/recent-files-obsidian/data.json', LF will be replaced by CRLF the nex\r\nt time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/table-editor-obsidian/data.json', LF will be replaced by CR\u001b[33mcommit 859d832a4ab08166ff1ceab79c90be7796b3b42d (\u001b[96;1mHEAD\u001b[33;22m -> \u001b[92;1mmain\u001b[33;22m, \u001b[91;1morigin/main\u001b[33;22m)\r\n\u001b[0mAuthor: codefug <robot9917@naver.com>\r\nDate:   Wed Apr 10 09:56:27 2024 +0900\r\n\r\n    docs: record til react\r\n\r\n\u001b[33mcommit 8cb4636b48a431896f7ac652757cdf6aa7564288\r\n\u001b[0mAuthor: codefug <robot9917@naver.com>\r\nDate:   Wed Apr 3 23:49:13 2024 +0900\r\n\r\n    docs: add till closer core js, async codeit\r\n\r\n\u001b[33mcommit 0069064dc9e79b5831da37e964a96ad7c9834167\r\n\u001b[0mAuthor: codefug <robot9917@naver.com>\r\nDate:   Tue Mar 26 16:10:04 2024 +0900\r\n\r\n    add my note\r\n\r\n\u001b[33mcommit 6c6dc1d8330edd1f3b92f78345f4b8ce71713b21\r\n\u001b[0mAuthor: codefug <robot9917@naver.com>\r\nDate:   Sat Mar 23 15:33:33 2024 +0900\r\n\r\n    docs: core javascript chapter 2\r\n\r\n\u001b[33mcommit b9947d5550c4cbbe3847f994607a7d95e7764132\r\n\u001b[0mAuthor: codefug <robot9917@gmail.com>\r\nDate:   Fri Mar 22 02:45:17 2024 +0900\r\n\r\n    add video file and arrange folder structure\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git add .\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[17A\u001b[39C",
-                        "rows": 48
+                        "columns": 173,
+                        "data": "(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\내 드라이브\\Obsidian Vault>git a",
+                        "rows": 24
                       }
                     }
                   },
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "7f7df61e23e10ef3",
@@ -203,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -211,59 +211,60 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0770695bf91f872e",
+  "active": "4873ae149662b2ce",
   "lastOpenFiles": [
-    "Framework/React/Codeit/React Data Handling.md",
-    "Framework/React/Codeit/React Web Development Foundamental.md",
-    "Pasted image 20240411130359.png",
-    "Pasted image 20240411112107.png",
-    "Pasted image 20240411110401.png",
-    "Pasted image 20240411110207.png",
-    "문서 작성 규칙.md",
+    "FeTech/Styled Components/OfficialDocs/Styled Components.md",
+    "FeTech/React/OfficialDocs/Describing the UI.md",
+    "FeTech/React/Codeit/React Data Handling.md",
+    "FeTech/React/Codeit/React Web Development Foundamental.md",
+    "FeTech/React/Codeit/React Web Site Practice.md",
+    "FeTech/React/CleanCode/CleanCode(React).md",
     "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 2 Asynchronous.md",
-    "Language Knowledge/JS Knowledge/Core JavaScript/1. Data Type.md",
     "Language Knowledge/JS Knowledge/Codeit/Web Development JavaScript - chapter 1 Web.md",
-    "공부자료(필기)/JS/React/Docs/Pasted image 20240409140308.png",
-    "공부자료(필기)/JS/React/Codeit/Pasted image 20240409034607.png",
-    "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142251.png",
-    "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142332.png",
-    "공부자료(필기)/JS/React/Codeit/Pasted image 20240408142450.png",
-    "공부자료(필기)/JS/React/Docs",
-    "공부자료(필기)/JS/React/Codeit",
-    "공부자료(필기)/JS/React",
-    "공부자료(필기)/JS/React/Docs/Pasted image 20240409141019.png",
-    "Framework/React/OfficialDocs/React Quick Start.md",
-    "Language Knowledge/JS Knowledge/Core JavaScript/3. this.md",
-    "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md",
     "Language Knowledge/JS Knowledge/Codeit/Modern JavaScript.md",
-    "[[1..md",
+    "Language Knowledge/JS Knowledge/Codeit/Interactive JavaScript(DOM).md",
+    "FeTech/React/Codeit/React Component architecture.md",
+    "FeTech/Styled Components/Codeit/Styled Components.md",
+    "공부자료(필기)/StyledComponent/Pasted image 20240420105517.png",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_12.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_11.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_10.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_9.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_8.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_7.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_6.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_5.jpg",
+    "공부자료(필기)/CSS/CSS 핵심 개념_240310_094507/CSS 핵심 개념_240310_094507_4.jpg",
     "Language Knowledge/JS Knowledge/Core JavaScript/7. Class.md",
-    "공부자료(필기)/JS/Class",
     "Language Knowledge/JS Knowledge/Core JavaScript/6. Prototype.md",
-    "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md",
-    "공부자료(필기)/JS/Prototype",
-    "공부자료(필기)/JS/DOM",
-    "Framework/React/OfficialDocs",
-    "Framework/React/DeepDive",
-    "Framework/React/Codeit",
-    "Framework",
-    "Language Knowledge/JS Knowledge/Core JavaScript/4. Callback Function.md",
-    "Language Knowledge/JS Knowledge/Core JavaScript/2. Execution Context.md",
-    "Language Knowledge/CSS/MediaQuery/MediaQuery.md",
-    "Language Knowledge/CSS/BootStrap/BootStrap.md",
+    "CS Knowledge/cookie, session storage, local storage/Cookie, session storage, local storage.md",
     "CS Knowledge/CS Knowledge.canvas",
-    "Excalidraw/Drawing 2024-03-25 16.22.20.excalidraw.md",
-    "Core.md",
-    "2024-03-25.md",
+    "CS Knowledge/cookie, session storage, local storage",
+    "CS Knowledge",
+    "FeTech/CS Knowledge/cookie, session storage, local storage/Cookie, session storage, local storage.md",
+    "FeTech/CS Knowledge/cookie, session storage, local storage",
+    "FeTech/CS Knowledge/CS Knowledge.canvas",
+    "FeTech/CS Knowledge",
+    "FeTech/React/file structure/FSD architecture.md",
+    "FeTech/Formatter, Linter/Codeit/Formatter.md",
+    "FeTech/Formatter, Linter/Codeit",
+    "FeTech/Formatter, Linter",
+    "FeTech/React/OfficialDocs/Thinking in React.md",
+    "FeTech/React/OfficialDocs/React Quick Start.md",
+    "FeTech/Styled Components/OfficialDocs",
+    "FeTech/Tailwind CSS/OfficialDocs/Tailwind CSS.md",
+    "공부자료(필기)/Tailwind",
+    "공부자료(필기)/CS/network",
+    "공부자료(필기)/CS",
+    "Language Knowledge/JS Knowledge/Core JavaScript/5. Closer.md",
+    "FeTech/Tailwind CSS/Codeit/Tailwind CSS.md",
     "Language Knowledge/Language Knowledge.canvas",
+    "Language Knowledge/CSS/CSS extension/CSS extension.md",
+    "Framework/React/OfficialDocs/Describing the UI.md",
     "Untitled.canvas",
-    "video/Drawing 2024-03-22 03.19.47.excalidraw.md",
-    "무제 파일.canvas",
-    "2024-03-21.md",
-    "Untitled 1.md"
+    "무제 파일.canvas"
   ]
 }

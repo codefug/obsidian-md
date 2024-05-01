@@ -688,7 +688,7 @@ resolved와 rejected를 묶어서 settled 상태라고 한다.
 
 모든 Promise가 rejected될 경우 AggregateError를 작업 실패 정보로 갖고 rejected
 
-하나라도 fulfilled이면 fulfilledd가 리턴되는 method
+하나라도 fulfilled이면 fulfilled가 리턴되는 method
 
 ## <mark style="background: #FFF3A3A6;">axios</mark>
 
